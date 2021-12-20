@@ -1,5 +1,5 @@
 <script>
-    import { Grid, Row, Column } from "svelte-layout-editor";
+    import { Grid, Row, Column } from "svelte-grid-layout";
 </script>
 
 <main>
