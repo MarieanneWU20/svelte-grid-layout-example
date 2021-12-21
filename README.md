@@ -1,11 +1,10 @@
 # Demo example
 ## Description 
-This is a simple example of how you can use [**Svelte Layout Editor**](https://github.com/WiviWonderWoman/svelte-layout-editor#readme). 
+This is a simple example of how you can use [**Svelte Grid Layout**](https://github.com/MarieanneWU20/svelte-grid-layout). 
   
 ## Get started
 Install dependencies...
 ```bash
-cd svelte-layour-editor-example
 npm ci
 ```
 #### Run project
