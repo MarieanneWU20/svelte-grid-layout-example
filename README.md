@@ -12,8 +12,11 @@ npm ci
 npm run dev
 ```
 ## Dependencies
+### [svelte-grid-layout](https://www.npmjs.com/package/svelte-grid-layout) 
+^1.0.0
 #### [sirv-cli](https://www.npmjs.com/package/sirv-cli) 
 ^1.0.0
+
 ### Dev Dependencies
 #### [rollup](https://www.npmjs.com/package/rollup)
 ^2.60.1
